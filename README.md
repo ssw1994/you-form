@@ -1,10 +1,7 @@
-# Getting Started with Create React App
+### Checking out Project using git
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+    Step 1 . git clone https://github.com/ssw1994/you-form.git
+    Step 2.  yarn install
 
 ### `yarn start`
 
