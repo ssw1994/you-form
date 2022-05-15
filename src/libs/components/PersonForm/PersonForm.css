@@ -1,0 +1,24 @@
+.user-form{
+    padding:25px;
+    background:#f2f2ea;
+}
+.user-form .MuiTextField-root{
+    width: 100%;
+    margin: 15px 0;
+    background:white;
+}
+
+.user-form .MuiFormHelperText-root{
+    color:red;
+}
+
+.user-form .action_btns{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end
+}
+
+.user-form .action_btns button{
+    margin:0 10px;
+}
